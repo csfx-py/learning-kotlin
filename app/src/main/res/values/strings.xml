@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Recycle</string>
+    <string name="list_text1">List Item 1</string>
+    <string name="list_text2">List Item 2</string>
+    <string name="list_text3">List Item 3</string>
+    <string name="list_text4">List Item 4</string>
+    <string name="list_text5">List Item 5</string>
+    <string name="list_text6">List Item 6</string>
+    <string name="list_text7">List Item 7</string>
+    <string name="list_text8">List Item 8</string>
+    <string name="list_text9">List Item 9</string>
+    <string name="list_text10">List Item 10</string>
+</resources>
